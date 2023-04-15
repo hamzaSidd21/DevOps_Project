@@ -1,0 +1,18 @@
+
+.nav{
+    background-color: gray;
+    padding-left: 70%;
+    
+}
+.nav ul li {
+    display: inline;
+   padding: 10px;
+    
+}
+.nav ul li a {
+    color: white;
+}
+
+.intro {
+    padding-left: 10%;
+}
